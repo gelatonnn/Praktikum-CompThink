@@ -1,2 +1,5 @@
-# LabCompThink
-Praktikum Computational Thinking TPB Semester 1
+## Praktikum Computational Thinking TPB
+
+This repository serves to document and archive my practical exams during my TPB
+
+### Francis Galton - STI'24
